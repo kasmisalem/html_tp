@@ -1,17 +1,17 @@
 .dfinde{
-    color: brown;
+    color: #F52727;
 }
 #name{
-    color: green;
+    color: #16A800;
 }
 #age{
-    color:green;
+    color:#16A800;
 }
 #class{
-    color:green;
+    color:#16A800;
 }
 #university{
-    color:green;
+    color:#16A800;
 }
 .img{
     width: 300px;
@@ -22,3 +22,4 @@
     top: 100px;
     left: 400px;
 }
+
